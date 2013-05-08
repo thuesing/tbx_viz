@@ -1,4 +1,3 @@
-tbx_viz
+tbx viz
 =======
 
-tbx viz
